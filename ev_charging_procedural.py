@@ -4,7 +4,6 @@
 # ITS72604 Principles of Programming (202609)
 # Assessment 1 - Task 2
 # Single file procedural Python program
-# GITHUB GIST: https://gist.github.com/ThisIsMialy/cf0b0a6fac4eaca1d6adac7af472e028
 
 
 import math
