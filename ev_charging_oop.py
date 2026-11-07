@@ -4,7 +4,6 @@
 # ITS72604 Principles of Programming (202609)
 # Assessment 1 - Task 4
 # Object-Oriented Programming (OOP) Python program
-# Github: https://gist.github.com/ThisIsMialy/3bf6af6e738e5b70509a63664842fd23
 
 from abc import ABC, abstractmethod
 import math
